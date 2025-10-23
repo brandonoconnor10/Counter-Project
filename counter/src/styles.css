@@ -34,4 +34,5 @@ body {
   background: white;
   color: black;
   cursor: pointer;
+  border: 1px solid black 0.5
 }
